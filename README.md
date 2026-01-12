@@ -13,9 +13,4 @@ with a strong interest in:
 I enjoy building practical solutions and turning ideas into real projects.  
 My long-term goal is to **found my own AI-based startup**.
 
-Outside of tech, I stay active with:
-
--  MMA  
--  Soccer  
-
 Feel free to check out my projects below 👇  
